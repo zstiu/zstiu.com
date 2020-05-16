@@ -81,4 +81,3 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:zstiu/zstiu.com.git
-  branch: master
