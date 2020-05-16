@@ -80,4 +80,4 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:zstiu/zstiu.com.git
+  repo: https://github.com/zstiu/zstiu.github.io.git
